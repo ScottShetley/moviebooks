@@ -1,0 +1,9 @@
+/*  */
+.logincontainer {
+  margin: auto;
+  width: 20%;
+  height: 100%;
+  background-color: lightblue;
+  border: 5px solid black;
+  padding: 10px;
+}
